@@ -119,7 +119,25 @@ $$B_{H}=\sqrt{\frac{x}{y}}.............(12)$$
 
 ### Tan C position
 
-In this position (Fig. 4), the bar magnet is placed vertically, in contrast to the Tan A and Tan B positions, where it is placed horizontally. The bottom end of the bar magnet is placed a distance d from the center of the compass box, chosen so that the deflection of the aluminum pointer is between 30° and 60°. From Fig. 7, the horizontal component of the field from the bar magnet at the center of the compass is
+In this position (Fig. 4), the bar magnet is placed vertically, in contrast to the Tan A and Tan B positions, where it is placed horizontally. The bottom end of the bar magnet is placed a distance d from the center of the compass box, chosen so that the deflection of the aluminum pointer is between 30° and 60°. From Fig. 5, the horizontal component of the field from the bar magnet at the center of the compass is
+
+<div style="float: left; margin-right: 15px;">
+  <img src="./images/figure4.jpg" alt="A beautiful landscape" width="200"><br>
+  <img src="./images/figure5.jpg" alt="A beautiful landscape" width="200">
+</div>
+
+$$B_{h-bar}=B_{N}-B_{S}\cos\beta=\frac{\mu_{0}P}{4\pi}\left( \frac{1}{d^{2}}-\frac{1}{(d^{2}+L^{2})}\frac{d}{(d^{2}+L^{2})^{1/2}} \right)$$
+
+which reduces to,
+
+$$B=\frac{\mu_{0}P}{4\pi}\left( \frac{1}{d^{2}}-\frac{d}{(d^{2}+L^{2})^{3/2}}\right)......(13)$$
+
+Where P is the pole strength in Amp-meters (A m) and L is the length of the bar magnet in meters. In equation (1), the horizontal component of the field from the bar magnet BH bar corresponds to the external field B, so we have . Substituting this in (13) and solving for the pole strength P of the bar magnet,
+
+$$P=\frac{4\pi B_{H}\tan\theta}{\mu_{0}\left( \frac{1}{d^{2}}-\frac{d}{(d^{2}+L^{2})^{3/2}}\right)}.........(14)$$
+
+
+
 
 
 
