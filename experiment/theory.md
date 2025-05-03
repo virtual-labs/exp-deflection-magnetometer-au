@@ -58,10 +58,9 @@ Thus, by measuring vibration (oscillation) period T and calculating the moment o
 In Tan A position (Fig. 1), prior to placement of the magnet, the compass box is rotated so that the (0-0) line is parallel to the arm of the magnetometer. Then the magnetometer as a whole is rotated till pointer reads (0-0). Finally, the bar magnet (the same one that was previously suspended in the Vibration Magnetometer) is placed horizontally, parallel to the arm of the deflection magnetometer, at a distance d chosen so that the deflection of the aluminum pointer is between 30° and 60°.
 
 <div style="float: right; margin-right: 15px;">
-  <img src="./images/figure1.jpg" alt="Figure3" width="600">
+  <img src="./images/figure1.jpg" alt="Figure1" width="600">
 </div>
 
-![deff1](https://github.com/user-attachments/assets/86b01fb4-a522-4a69-b46e-f9a660082615)
 
 The magnet is a dipole. Suppose that, analogous to an electric dipole, there are two magnetic poles P (though in reality no single magnetic pole can exist), one positive and one negative, separated by a distance L = 2l, with the positive pole labeled N and the negative pole labeled S. By analogy with Coulomb’s law, for each pole we would have a field.
 
@@ -90,10 +89,8 @@ We will call this value y.
 
 In this position (Fig. 2), prior to placement of the magnet, the compass box alone is rotated so that the (90-90) line is parallel to the arm of the magnetometer. Then the magnetometer as a whole is rotated so that the pointer reads (0-0). Finally, the magnet is placed horizontally, perpendicular to the arm of the magnetometer, at distances d chosen so that the deflection of the aluminium pointer is between 30°and 60°. From Fig. 5, at point C,
 
-![fig2](https://github.com/user-attachments/assets/9b9bffa8-24a9-47de-b06f-abb9159da118)
-
 <div style="float: right; margin-right: 15px;">
-  <img src="./images/figure2.jpg" alt="Figure3" width="300">
+  <img src="./images/figure2.jpg" alt="Figure2" width="300">
 </div>
 
 $$B=B_{H}\sin\alpha+B_{S}\sin\alpha=\frac{2\mu_{0}P}{4\pi}\left( \frac{1}{(d^{2}+l^{2})}\frac{l}{(d^{2}+l^{2})^{1/2}} \right)$$
@@ -111,7 +108,7 @@ $$mB_{H}=x ...........(9)$$
 $$\frac{m}{B_{H}}=y ...........(10)$$
 
 <div style="float: right; margin-right: 15px;">
-  <img src="./images/figure3.jpg" alt="Figure3" width="500">
+  <img src="./images/figure3.jpg" alt="Figure3" width="200">
 </div>
 
 Hence, the magnetic moment of the bar magnet is,
