@@ -108,7 +108,7 @@ $$mB_{H}=x ...........(9)$$
 $$\frac{m}{B_{H}}=y ...........(10)$$
 
 <div style="float: right; margin-right: 15px;">
-  <img src="./images/figure3.jpg" alt="Figure3" width="200">
+  <img src="./images/figure3.jpg" alt="Figure3" width="300">
 </div>
 
 Hence, the magnetic moment of the bar magnet is,
