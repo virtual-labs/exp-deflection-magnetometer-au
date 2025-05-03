@@ -2,7 +2,7 @@
 
 The horizontal component of earth's magnetic field, B<sub>H</sub>, is the component of the magnetic field of the earth along a horizontal plane whose normal vector passes through the center of the earth. B<sub>H</sub> is measured in Tesla, T.
 
-The magnetic dipole moment m of a magnetic dipole is the property of the dipole which tends to align the dipole parallel to an external magnetic field. m is measured in Ampere-square meters (A m<sup>2<sup>) or, equivalently, in Joules per Tesla (J/T).
+The magnetic dipole moment m of a magnetic dipole is the property of the dipole which tends to align the dipole parallel to an external magnetic field. m is measured in Ampere-square meters (A m<sup>2</sup>) or, equivalently, in Joules per Tesla (J/T).
 
 ### Tangent law
 Consider a bar magnet with magnetic moment m, suspended horizontally in a region where there are two perpendicular horizontal magnetic fields, and external field B and the horizontal component of the earth’s field B<sub>H</sub>. If no external magnetic field B is present, the bar magnet will align with B<sub>H</sub>. Due to the field B, the magnet experiences a torque τ<sub>D</sub> , called the deflecting torque, which tends to deflect it from its original orientation parallel to B<sub>H</sub>. If θ is the angle between the bar magnet and B<sub>H</sub>, the magnitude of the deflecting torque will be,
