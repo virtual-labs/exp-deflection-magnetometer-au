@@ -30,7 +30,7 @@ The direction of B<sub>H</sub> is drawn on the table using a compass needle. The
 <li><b>Length of the magnet</b> - Set the horizontal length of the magnet, from 3cm to 7cm.</li>
 <li><b>Mass of the magnet</b> - Set the mass of magnet, from 30g to 80g.</li>
 <li><b>Breadth of the magnet</b> - Set the horizontal breadth of the magnet, from 1cm to 3cm.</li>
-Note: When length and breadth of the bar magnet changes, the correspoding change in the mass is displayed in the simulator part.
+Note: When length and breadth of the bar magnet changes, the corresponding change in the mass is displayed in the simulator part.
 <li><b>Place second magnet</b> – Clicking this button starts the oscillation. The Start/Stop button on the timer can then be used to time 10 oscillations, thereby finding a value for T, the period of oscillation.</li>
 <li>Now, without changing the dimensions of the magnet, click <b>Deflection Magnetometer.</b></li>
 <li><b>Choose the position</b> Tan A, Tan B or Tan C for the deflection magnetometer.</li>
